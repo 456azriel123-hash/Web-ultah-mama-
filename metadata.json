@@ -1,0 +1,6 @@
+{
+  "name": "Undangan Ulang Tahun Mama",
+  "description": "Undangan digital dan kartu ucapan interaktif spesial ulang tahun Mama tercinta dengan tema merah maroon, gold, dan cream, lengkap dengan kado kejutan, efek bunga berhamburan, hitung mundur, sistem PIN pengaman, dan slide kata-kata penuh kasih.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
